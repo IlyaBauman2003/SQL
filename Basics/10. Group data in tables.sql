@@ -1,2 +1,2 @@
 SELECT DepartamentId, COUNT(*) AS DepartamentCount
-FROM Teachers GROUP BY DepartamentId
+FROM Teachers GROUP BY DepartamentId;
