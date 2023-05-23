@@ -13,5 +13,5 @@ VALUES (N'ИУК4-42Б', 14, 2);
 INSERT INTO Disciplines(DisciplineName, TeacherID) 
 VALUES (N'ТиСД', 1);
 
-INSERT INTO	Departaments(DepartamentName, DepartamentHeadId) 
+INSERT INTO Departaments(DepartamentName, DepartamentHeadId) 
 VALUES (N'ИУК4', 2);
