@@ -1,0 +1,5 @@
+CREATE TABLE Test(
+	ID INT NOT NULL
+);
+
+DROP TABLE Test;
